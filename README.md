@@ -1,3 +1,4 @@
 ## web-demo
 
-More __Updates__ ~locally~.
+More __Updates__ ~locally~,
+then *_remotely_*.
