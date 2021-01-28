@@ -1,5 +1,3 @@
 ## web-demo
 
-More __Updates__ ~locally~,
-then *_remotely_*.     
-this is a github tweak b4 **rebase**
+This is just a *_demo_* read me file for the repository.
